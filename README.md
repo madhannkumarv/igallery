@@ -206,7 +206,8 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-![alt text](<vmkapp/static/Screenshot (53).png>)
-![alt text](<vmkapp/static/Screenshot (54).png>)
+![alt text](<vmk/vmkapp/static/Screenshot (53).png>)
+![alt text](<vmk/vmkapp/static/Screenshot (54).png>)
+
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
